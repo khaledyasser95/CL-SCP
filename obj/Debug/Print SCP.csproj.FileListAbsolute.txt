@@ -21,3 +21,4 @@ C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.applicati
 C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print SCP.csproj.CopyComplete
 C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.exe
 C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.pdb
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print SCP.csprojAssemblyReference.cache

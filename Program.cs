@@ -16,7 +16,7 @@ namespace Print_SCP
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-             Application.Run(FormReferenceHolder.Form1);
+             Application.Run(FormReferenceHolder.AddLicense);
            // Application.Run(new AddLicense());
         }
 

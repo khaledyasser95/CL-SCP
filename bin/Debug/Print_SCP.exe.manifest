@@ -91,14 +91,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Print_SCP.exe" size="253376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Print_SCP.exe" size="253888">
       <assemblyIdentity name="Print_SCP" version="4.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8XTZpsWo719ohvcxqEUJlLOfAMII9zVXT0WG2b1Ui9w=</dsig:DigestValue>
+        <dsig:DigestValue>WHuAM4ul0Nxn6/Akz6h9p7mQ0/Xz9YzuAa2VP7C8eTU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

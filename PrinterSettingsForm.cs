@@ -8,7 +8,7 @@ namespace Print_SCP
     public partial class PrinterSettingsForm : Form
     {
         private DicomPrintConfig _config;
-  
+
 
         public PrinterSettingsForm(DicomPrintConfig config)
         {
@@ -19,6 +19,13 @@ namespace Print_SCP
             this.tray.Items.Clear();
             this.tray.Items.Add("Driver Select");
             this.resolutionBar.Value = config.resolution;
+
+            this.numericUpDown1.Value = config.m_top;
+            this.numericUpDown2.Value = config.m_left;
+            this.numericUpDown3.Value = config.m_bottom;
+            this.numericUpDown4.Value = config.m_right;
+
+
 
             foreach (PaperSource source in this._config.PrinterSettings.PaperSources)
             {
@@ -84,7 +91,7 @@ namespace Print_SCP
             this._config.AETitle = this.AETITLE_txt.Text;
         }
 
-   
+
 
         private void trackBar1_Scroll_1(object sender, EventArgs e)
         {
@@ -95,8 +102,21 @@ namespace Print_SCP
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
             _config.m_top = Convert.ToInt32(numericUpDown1.Value);
-            _config.m_bottom = Convert.ToInt32(numericUpDown3.Value);
+
+        }
+
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e)
+        {
             _config.m_left = Convert.ToInt32(numericUpDown2.Value);
+        }
+
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e)
+        {
+            _config.m_bottom = Convert.ToInt32(numericUpDown3.Value);
+        }
+
+        private void numericUpDown4_ValueChanged(object sender, EventArgs e)
+        {
             _config.m_right = Convert.ToInt32(numericUpDown4.Value);
         }
     }

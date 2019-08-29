@@ -11,6 +11,7 @@ namespace Print_SCP
         public string PaperSource;
         public bool PreviewOnly = false;
         public int resolution=150;
+
         public int m_left=25;
         public int m_right = 25;
         public int m_top = 25;
