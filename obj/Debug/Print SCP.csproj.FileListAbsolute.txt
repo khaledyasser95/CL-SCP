@@ -1,0 +1,23 @@
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Dicom.Native.dll
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Print_SCP.exe.config
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Print_SCP.exe.manifest
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Print_SCP.application
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Print_SCP.exe
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Print_SCP.pdb
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Cryptolens.Licensing.dll
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Dicom.Core.dll
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Newtonsoft.Json.dll
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Dicom.Core.pdb
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Dicom.Core.xml
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\bin\Debug\Newtonsoft.Json.xml
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.AddLicense.resources
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.PrinterSettingsForm.resources
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.Properties.Resources.resources
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.V1.resources
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print SCP.csproj.GenerateResource.cache
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print SCP.csproj.CoreCompileInputs.cache
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.exe.manifest
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.application
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print SCP.csproj.CopyComplete
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.exe
+C:\DICOM\fo-dicom-samples-master\Desktop\Print SCP\obj\Debug\Print_SCP.pdb
